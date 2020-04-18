@@ -8,3 +8,6 @@ You still need to save the first page of each comic locally as HTML.
 If the pattern mismatches, edit the script to match the new pattern.
 
 ### Version 0.1.0
+
+![howto](Howto.png)
+
